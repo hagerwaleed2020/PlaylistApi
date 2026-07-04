@@ -200,6 +200,16 @@ The API was tested using Postman.
 
 ---
 
+## API Example
+
+### Get All Playlists
+
+The following screenshot shows the API returning playlists together with their associated songs.
+
+![Get Playlists](images/get-playlists.png)
+
+---
+
 ## Author
 
 Hager Waleed
