@@ -1,0 +1,4 @@
+@PlaylistApi_HostAddress = http://localhost:5173
+
+GET {{PlaylistApi_HostAddress}}/Playlists
+Accept: application/json
